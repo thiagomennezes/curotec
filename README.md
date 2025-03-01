@@ -63,11 +63,11 @@ Example of body
 
 Parameters
 
-| Parameter      | Description            |
-| -------------- | ---------------------- |
-| `name`         | The customer name      |
-| `email`        | The customer e-mail    |
-| `person_id`    | The customer person ID |
+| Parameter      | Description         |
+| -------------- | ------------------- |
+| `name`         | The customer name   |
+| `email`        | The customer e-mail |
+| `person_id`    | The customer ID     |
 
 Example readings
 
